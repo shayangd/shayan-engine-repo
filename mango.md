@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Mangoes are tropical stone fruits known as the "king of fruits" and are among the most cultivated fruits in the world. These succulent, aromatic fruits belong to the flowering plant family Anacardiaceae and are native to South Asia, particularly India and Myanmar. With their rich, sweet flavor and smooth texture, mangoes have been cultivated for over 4,000 years and are now grown in tropical and subtropical regions across the globe.
+Mangoes are tropical stone fruits renowned worldwide as the "king of fruits" and rank among the most economically important and widely cultivated fruits globally, with annual production exceeding 55 million tons. These succulent, aromatic fruits belong to the flowering plant family Anacardiaceae and are native to South Asia, particularly the Indian subcontinent and Myanmar, where they have been an integral part of culture and cuisine for millennia. With their rich, sweet flavor, smooth buttery texture, and distinctive fragrance, mangoes have been cultivated for over 4,000 years and are now grown in tropical and subtropical regions across every continent except Antarctica.
 
 ## Nutritional Benefits
 
@@ -42,7 +42,7 @@ One of the oldest commercial varieties, featuring a rich, sweet-tart flavor with
 
 Mangoes flourish in warm climates with distinct wet and dry seasons. Key producing regions include:
 
-- **India**: The world's largest producer, accounting for nearly 50% of global mango production
+- **India**: The world's largest producer, accounting for nearly 50% of global mango production with over 24 million tons annually, cultivating more than 1,000 indigenous varieties across states like Uttar Pradesh, Andhra Pradesh, and Maharashtra
 - **China**: Second largest producer with significant domestic consumption
 - **Thailand**: Major producer and exporter of tropical mango varieties
 - **Indonesia**: Important producer in Southeast Asia
