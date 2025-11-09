@@ -117,3 +117,93 @@ Cricket is a bat-and-ball game played between two teams of eleven players. This 
 - Holds record for highest first-class score: 501 not out
 - Only player to reclaim the record for highest Test score
 - 53 international centuries across Test and ODI formats
+
+## Bowler Profiles
+
+### Shane Warne
+
+**Basic Info:**
+- Country: Australia
+- Born: September 13, 1969
+- Bowling Type: Right-arm leg spin
+- Role: Spin bowler
+
+**Statistics:**
+
+| Format | Matches | Wickets | Average | Economy Rate |
+|--------|---------|---------|---------|--------------|
+| Test | 145 | 708 | 25.41 | 2.65 |
+| ODI | 194 | 293 | 25.73 | 4.25 |
+
+**Notable Performances and Records:**
+- Second-highest wicket-taker in Test cricket history
+- "Ball of the Century" to Mike Gatting in 1993
+- First bowler to reach 700 Test wickets
+- 37 five-wicket hauls in Test cricket
+- Instrumental in Australia's dominance in the 1990s and 2000s
+
+### Muttiah Muralitharan
+
+**Basic Info:**
+- Country: Sri Lanka
+- Born: April 17, 1972
+- Bowling Type: Right-arm off spin
+- Role: Spin bowler
+
+**Statistics:**
+
+| Format | Matches | Wickets | Average | Economy Rate |
+|--------|---------|---------|---------|--------------|
+| Test | 133 | 800 | 22.72 | 2.47 |
+| ODI | 350 | 534 | 23.08 | 3.93 |
+
+**Notable Performances and Records:**
+- Highest wicket-taker in Test cricket with 800 wickets
+- Highest wicket-taker in ODI cricket with 534 wickets
+- 67 five-wicket hauls in Test cricket
+- 10 wickets or more in a match 22 times
+- Only bowler to take 800 Test wickets
+
+### Glenn McGrath
+
+**Basic Info:**
+- Country: Australia
+- Born: February 9, 1970
+- Bowling Type: Right-arm fast-medium
+- Role: Fast bowler
+
+**Statistics:**
+
+| Format | Matches | Wickets | Average | Economy Rate |
+|--------|---------|---------|---------|--------------|
+| Test | 124 | 563 | 21.64 | 2.49 |
+| ODI | 250 | 381 | 22.02 | 3.88 |
+
+**Notable Performances and Records:**
+- Fifth-highest wicket-taker in Test cricket
+- Most wickets in World Cup history (71 wickets)
+- 29 five-wicket hauls in Test cricket
+- Best Test figures: 8/24 against Pakistan
+- Known for incredible accuracy and line and length bowling
+
+### Wasim Akram
+
+**Basic Info:**
+- Country: Pakistan
+- Born: June 3, 1966
+- Bowling Type: Left-arm fast
+- Role: Fast bowler
+
+**Statistics:**
+
+| Format | Matches | Wickets | Average | Economy Rate |
+|--------|---------|---------|---------|--------------|
+| Test | 104 | 414 | 23.62 | 2.68 |
+| ODI | 356 | 502 | 23.52 | 3.89 |
+
+**Notable Performances and Records:**
+- First bowler to take 500 wickets in ODI cricket
+- Master of reverse swing and yorkers
+- 25 five-wicket hauls in Test cricket
+- Best ODI figures: 5/15 against Australia
+- Legendary left-arm fast bowler with exceptional control
