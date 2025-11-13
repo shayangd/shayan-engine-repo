@@ -50,6 +50,33 @@ Mangoes require tropical or subtropical climates with distinct wet and dry seaso
 - **Brazil**: Major producer in South America
 - **Egypt**: Important producer in North Africa
 
+## Culinary Uses and Preparation
+
+Mangoes are incredibly versatile fruits used in cuisines worldwide:
+
+### Fresh Consumption
+- **Ripe mangoes**: Eaten fresh as a snack, sliced or cubed in fruit salads
+- **Mango lassi**: Popular Indian yogurt-based beverage blended with mango pulp
+- **Smoothies and juices**: Blended for refreshing drinks and nutritional shakes
+
+### Cooking Applications
+- **Chutneys and sauces**: Both sweet and savory accompaniments for meats and snacks
+- **Curries**: Used in Thai, Indian, and Caribbean dishes for sweetness and flavor depth
+- **Salsas**: Fresh mango salsa paired with fish, chicken, or chips
+- **Desserts**: Mango sticky rice, ice cream, sorbet, and puddings
+
+### Preservation Methods
+- **Dried mango**: Chewy snack popular across many cultures
+- **Mango pickles**: Unripe mangoes preserved in oil, salt, and spices
+- **Jams and preserves**: Sweet spreads made from ripe mango pulp
+- **Frozen**: Cubed mango frozen for smoothies and off-season use
+
+### Preparation Tips
+- Ripen mangoes at room temperature until slightly soft to touch
+- Cut around the flat seed, score flesh in cross-hatch pattern, and invert skin
+- Remove skin by peeling with a knife or vegetable peeler for ripe mangoes
+- Use unripe green mangoes in savory dishes and pickles
+
 ## Interesting Facts
 
 - Mango trees can live and bear fruit for over 300 years
